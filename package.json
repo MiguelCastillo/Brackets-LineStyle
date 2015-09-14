@@ -1,0 +1,15 @@
+{
+    "title": "Editor Line Style",
+    "name": "editor-line-style",
+    "description": "Set line styles for the editor",
+    "version": "0.0.0",
+    "author": "Miguel Castillo <manchagnu@gmail.com>",
+    "homepage": "https://github.com/MiguelCastillo/Brackets-LineStyle",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/MiguelCastillo/Brackets-LineStyle.git"
+    },
+    "engines": {
+        "brackets": ">=0.38.0"
+    }
+}

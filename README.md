@@ -1,2 +1,2 @@
-# Brackets-LineHeight
-Editor line height
+# Brackets-LineStyle
+Editor line Style
