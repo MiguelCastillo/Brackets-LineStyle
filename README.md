@@ -12,4 +12,4 @@ Simply add to your `brackets.json` the size of the line height you want.
 }
 ```
 
-The value will be used as you have specify it so that you can use percentages, ems... Or whatever you want.
+The value you specify will be used as is so that you can use percentages, ems... Or whatever you want.  However, using unitless ems based values seem to work best.
